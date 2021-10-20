@@ -4,9 +4,6 @@ import (
 	"fmt"
 )
 
-type address struct {
-	numero int
-}
 
 func main() {
 
